@@ -36,8 +36,7 @@ O método de autenticação pode demorar para carregar pois o servidor está hos
 <!-- 1. Acesse o link: https://github.com/ -->
 
 2. Siga o README.md do back-end
-3. Altere o arquivo /src/services/api.js do front-end passando a baseURL como "http://localhost:3000" (Caso tenha alterado a PORT do back-end, substitua o '3000' pela nova PORT)
-4. Execute o `npm run dev` na pasta do back-end **e** na pasta do front-end
+3. Execute o `npm run dev` na pasta do back-end **e** na pasta do front-end
 
 ## Acessos
 
